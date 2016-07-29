@@ -1,0 +1,4 @@
+*.pd.pk
+*.pk
+*.pyc
+pickle_files/
